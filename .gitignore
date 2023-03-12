@@ -80,3 +80,5 @@ Content/Art/ArtCompany/*
 Content/Gameplay/Data/Basics/GI_MasterGameInstance.uasset
 
 Content/Gameplay/Data/Basics/GM_MasterGameMode.uasset
+
+.vsconfig
