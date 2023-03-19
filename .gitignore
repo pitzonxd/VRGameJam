@@ -77,8 +77,4 @@ DerivedDataCache/*
 Content/Art/ArtCompany/*
 !Content/Art/ArtCompany/.gitkeep
 
-Content/Gameplay/Data/Basics/GI_MasterGameInstance.uasset
-
-Content/Gameplay/Data/Basics/GM_MasterGameMode.uasset
-
 .vsconfig
